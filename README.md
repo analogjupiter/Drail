@@ -17,4 +17,4 @@ You can either build this app yourself (see both variants below) or just *downlo
 
 
 ## Dependencies
-This program makes use of (terminal.d)[https://github.com/adamdruppe/arsd/blob/master/terminal.d] taken from (arsd)[https://github.com/adamdruppe/arsd] by (Adam D. Ruppe)[https://github.com/adamdruppe]
+This program makes use of [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) taken from [arsd](https://github.com/adamdruppe/arsd) by [Adam D. Ruppe](https://github.com/adamdruppe).
